@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Unwana-Ekanem
-- 👀 I’m interested in adding value to myself 6
+- 👀 I’m interested in adding value to myself 
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
